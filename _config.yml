@@ -103,8 +103,8 @@ analytics:
 author:
   name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "A \"young\" radiation oncologist who want to share some tips."
+  location         : "Paris"
   email            :
   links:
     - label: "Email"
