@@ -1,5 +1,5 @@
 ---
-title: "2021-10-23 What is radiation oncology"
+title: "What is radiation oncology ?"
 author: "Kevin Berthelot"
 date: "10/23/2021"
 output: html_document
