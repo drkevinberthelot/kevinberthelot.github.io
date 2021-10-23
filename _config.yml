@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Kevin Berthelot"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "A radiation oncologist who want to share some knowledge."
+  bio              : "Radiation oncologist publishing without publishers."
   location         : "Paris"
   email            : "dr.kevin.berthelot@gmail.com"
   links:
@@ -115,7 +115,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/KBerthelot_MD"  
+       url: "https://twitter.com/KBerthelot_MD"  
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
