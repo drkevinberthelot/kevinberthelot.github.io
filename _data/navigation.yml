@@ -1,6 +1,6 @@
 # main links
 header:
-  teaser: images/fuji.jpg
+  teaser: assets/images/fuji.jpg
 toc: true
 main:
   - title: "Quick-Start Guide"
