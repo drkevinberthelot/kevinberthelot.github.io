@@ -115,9 +115,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com"
-
-
+      # url: "https://twitter.com"  
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -132,13 +130,9 @@ author:
 footer:
   links:
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-<<<<<<< HEAD
+      icon: "fab fa-fw fa-twitter-square"   s
        # url:"https://twitter.com/KBerthelot_MD"
-=======
        url:"https://twitter.com/KBerthelot_MD"
-
->>>>>>> e73f6f1793dddaaec7faa4be4a1e68c4a198d072
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
