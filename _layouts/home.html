@@ -10,13 +10,14 @@ layout: archive
   {% assign posts = paginator.posts %}
 {% else %}
 
-<figure>
-  <img src="/assets/images/fuji.jpg" alt="this is a placeholder image">
-  <figcaption>This is a figure caption.</figcaption>
-</figure>
+
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 <div class="entries-{{ entries_layout }}">
+  <figure>
+  <img src="/assets/images/fuji.jpg" alt="this is a placeholder image">
+  <figcaption>This is a figure caption.</figcaption>
+  </figure>
   {% for post in posts %}
     {% include archive-single.html type=entries_layout %}
   {% endfor %}
