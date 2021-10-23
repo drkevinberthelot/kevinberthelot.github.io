@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kevin Berthelot"
+title                    : "Radiation Oncology"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Kevin Berthelot"
@@ -32,7 +32,7 @@ words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : https://kevinberthelot.discus.com
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -78,7 +78,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               :"KBerthelot_MD"
 facebook:
   username               :
   app_id                 :
@@ -103,9 +103,9 @@ analytics:
 author:
   name             : "Kevin Berthelot"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "A \"young\" radiation oncologist who want to share some tips."
+  bio              : "A radiation oncologist who want to share some knowledge."
   location         : "Paris"
-  email            :
+  email            : "dr.kevin.berthelot@gmail.com"
   links:
     - label: "dr.kevin.berthelot@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
