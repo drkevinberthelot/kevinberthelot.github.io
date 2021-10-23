@@ -89,7 +89,11 @@ og_image                 : # Open Graph/Twitter default site image
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links:
+    - "https://twitter.com/KBerthelot_MD"
+    - "https://www.facebook.com/kevin.berthelot"
+    - "https://www.instagram.com/vinouke/"
+    - "https://www.linkedin.com/in/kevin-berthelot-23a66737/"
 
 # Analytics
 analytics:
