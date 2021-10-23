@@ -1,4 +1,6 @@
 # main links
+header:
+  teaser: images/fuji.jpg
 toc: true
 main:
   - title: "Quick-Start Guide"
