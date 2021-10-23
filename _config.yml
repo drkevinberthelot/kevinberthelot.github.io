@@ -125,7 +125,7 @@ author:
       url: "https://www.facebook.com/kevin.berthelot"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/kevinberthelot/"
+      url: "https://github.com/kevinberthelot"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/vinouke/"
@@ -141,11 +141,7 @@ footer:
       url: "https://www.facebook.com/kevin.berthelot"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-<<<<<<< HEAD
-      url: "https://github.com/kevinberthelot/"
-=======
-      "https://github.com/kevinberthelot/"
->>>>>>> a4468705129026b0dc816aa4b8e96f0d82dd1531
+      url: "https://github.com/kevinberthelot"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
