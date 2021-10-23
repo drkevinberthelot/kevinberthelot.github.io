@@ -116,6 +116,10 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com"
+<<<<<<< HEAD
+=======
+
+>>>>>>> e73f6f1793dddaaec7faa4be4a1e68c4a198d072
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -131,7 +135,12 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
+<<<<<<< HEAD
        # url:"https://twitter.com/KBerthelot_MD"
+=======
+       url:"https://twitter.com/KBerthelot_MD"
+
+>>>>>>> e73f6f1793dddaaec7faa4be4a1e68c4a198d072
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
