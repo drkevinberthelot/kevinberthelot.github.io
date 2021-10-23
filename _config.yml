@@ -107,7 +107,7 @@ author:
   location         : "Paris"
   email            : "dr.kevin.berthelot@gmail.com"
   links:
-    - label: "Mail"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
        url: "mailto:dr.kevin.berthelot@gmail.com"
     - label: "Website"
