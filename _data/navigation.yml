@@ -12,7 +12,9 @@ main:
   - title: "Tags"
     url: /tags/
   - title: "Pages"
-    url: /page-archive/
+    url: /pages/
+      - title : "Posts"
+      url: /Posts/
   - title: "Collections"
     url: /collection-archive/
   - title: "External Link"
