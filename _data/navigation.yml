@@ -13,8 +13,6 @@ main:
     url: /tags/
   - title: "Pages"
     url: /pages/
-      - title : "Posts"
-      url: /Posts/
   - title: "Collections"
     url: /collection-archive/
   - title: "External Link"
